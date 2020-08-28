@@ -21,10 +21,16 @@ Delani studio is a platform that creates customer oriented-designs to suite your
 
  + Functionality should be as illustrated
 
-## Technologies used
+## TECHNOLOGIES USED
 
 Technologies | Purpose
 ------|---------
 HTML |  Contents
 Bootstrap|  Styling
 Jquery |  Functionality
+
+
+#### FOLLOW ME ON 
+------|
+ _Twitter_  **https://twitter.com/Muthonim7**
+_Github_   **https://github.com/mishel254**
