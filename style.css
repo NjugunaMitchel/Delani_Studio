@@ -12,7 +12,7 @@
     
 }
 
-.content{
+#content{
     text-align: center;
     justify-content: center;
     color:white;
@@ -33,10 +33,19 @@
     height:50vh;
 }
 
-.services >.content{
+.services >#content{
     color:white;
     text-align: center;
     justify-content: center;
     margin:auto;
     
+}
+
+.products{
+    text-align: center;
+    padding:20px;
+}
+
+.products .content{
+    display:none;
 }
