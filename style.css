@@ -54,6 +54,7 @@
     text-align: center;
     width:70%;
     margin:auto;
+    padding:20px;
 
 }
 
@@ -97,4 +98,61 @@
 
 .work8{
     background-image: url('/assets/portfolio/work8.jpg');
+}
+
+.contact{
+    text-align: center;
+}
+
+form{
+    display:flex;
+    flex-direction: row;
+    background-image: url('/assets/backgrounds/c_image.jpg');
+    background-size: cover;
+    height:60vh;
+    text-align: center;
+    color:white;
+    justify-content: center;
+    
+}
+form h3{
+    padding-top:30px;
+}
+
+
+form input{
+    background-color: rgba(255, 255, 255, 0.021);
+    border:1px solid rgba(255, 255, 255, 0.623);
+    margin:15px;
+    width:250px;
+    
+}
+
+#mce-FNAME{
+    width:320px;
+    
+}
+
+
+textarea{
+    background-color: rgba(255, 255, 255, 0.021);
+    border:1px solid rgba(255, 255, 255, 0.637);
+    width:590px;
+    height:200px;
+   
+
+}
+
+::placeholder{
+    color:white;
+}
+
+
+.social{
+    text-align: center;
+    padding:20px;
+}
+
+.social img{
+    padding:10px;
 }
