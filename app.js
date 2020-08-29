@@ -27,13 +27,9 @@ $('#management').click( ()=>{
 })
 
 $('.work4').hover(
-  
-    () =>{
-        $('.hover').show()
-    } ,
-   
-
-   
+    $('#nam').toggleClass(
+        $('.nam').show()
+    )
 )
 
 
